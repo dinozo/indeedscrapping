@@ -1,7 +1,5 @@
 # indeedscrapping
 
-# Scrapping
-
 Indeedscrap est une application qui récupère les nouveaux offres d'emploi proposés sur le site.
 
 ## Installation
